@@ -11,10 +11,16 @@ Bienvenue sur ma page  👋
     Happy to biging in today ^^👋 
     
  🌱 After 8years no coding, i'm back step by step
-    I’m currently learning jscript, html, ccs, and soon php will be back
-    
+    I’m currently learning jscript, html, ccs, and soon php will be back - 🌱
+
+
+
+
+
+
+
 - 👀 I’m interested in it, movies, and celtic music
-- 🌱 I’m currently learning jscript, html, ccs, and soon php will be back ^^
+
 - 💞️ I’m looking to collaborate on //
 - 📫 How to reach me // 
 
