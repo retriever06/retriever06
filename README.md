@@ -9,8 +9,8 @@ Bienvenue sur ma page  👋
 
  👋 Greeting 
     Hi, I’m Retriever @retriever06
-    Freom france
-    Happy to biging in today ^^👋 
+    From france
+    Happy to begin today ^^👋 
     
  🌱 After 8years no coding, i'm back step by step
     I’m currently learning jscript, html, ccs, and soon php will be back - 🌱
