@@ -1,11 +1,10 @@
  👋 Bonjour! Hi! (eng bellow)
 Bienvenue sur ma page  👋 
 
- 🌱 Me remets à codouiller apès 8ans. 
-    Etude pas reussi mais de bons restes  🌱 
-    jscript, html, ccs, et bientôt php (je me reserve de rajouter xml xsl)
+ 🌱 Me remets à codouiller après 8ans. Etude pas reussi mais de bons restes.
+    JavaScript, HTML5, CSS3, PHP7, xml, JAVA, MariaDB, MySQL, SQLite 🌱 
  
- 👀 sinon, autres passions... la musique, le cinema, les animés, les séries (90-2015)    
+ 👀 sinon, autres passions... la musique celtique, le cinema, les animés, les séries (90-2015)    
 
  👋 Greeting 
     Hi, I’m Retriever @retriever06
@@ -13,7 +12,7 @@ Bienvenue sur ma page  👋
     Happy to begin today ^^👋 
     
  🌱 After 8years no coding, i'm back step by step
-    I’m currently learning jscript, html, ccs, and soon php will be back - 🌱
+    JavaScript, HTML5, CSS3, PHP7, xml, JAVA, MariaDB, MySQL, SQLite - 🌱
     
  👀 I’m interested in it, movies, and celtic music
 
