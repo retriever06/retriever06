@@ -1,6 +1,6 @@
  👋 Bonjour! Hi! (eng bellow)
 Bienvenue sur ma page 
-Français Grasse 06 👋 
+Français Grasse 06 - 38ans 👋 
 
  🌱 Me remets à codouiller après 8ans. Etude pas reussi mais de bons restes.
     JavaScript, HTML5, CSS3, PHP7, xml, JAVA, MariaDB, MySQL, SQLite 🌱 
@@ -9,7 +9,7 @@ Français Grasse 06 👋
 
 
  👋 Greeting 
-    Hi, I’m Retriever @retriever06
+    Hi, I’m Retriever @retriever06 38yo
     From France - Grasse perfume capital
     Happy to begin today ^^👋 
     
