@@ -27,13 +27,17 @@
  👋 Greeting 
     Hi, I’m Retriever @retriever06 38yo
     From France - Grasse perfume capital
-    Happy to begin today ^^👋 
+    8 years no code
+    Schoolarship failed but good memory 👋 
     
- 🌱 After 8years no coding, i'm back step by step
-    JavaScript, HTML5, CSS3, PHP7, xml, JAVA, MariaDB, MySQL, SQLite - 🌱
+ 🌱 2001 stating with algorithmes
+    FRONT6END BACK6END SINCE 2006
+    JavaScript, HTML5, CSS3, PHP7, xml, JAVA, MariaDB, MySQL, SQLite 
+    Oracle, SQL Server, WordPress, C#, VB Script, C++, Cobol, Git
+    Eclipse, GitHub Desktop, VS Code, Notepade++, Brackets,  🌱 
     
- 👀 I’m interested in IT, movies, celtic music, anime...
-
+ 👀 I’m interested in IT, movies, celtic music, movies, anime...
+     rpg resume 'secret of mana' canvas html 
 
 
 - 💞️ I’m looking to collaborate on //
