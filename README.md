@@ -17,10 +17,15 @@
     Afpa Cannes 04 2022 - 06 2022
     
 
- ✨ https://retriever06.fr 2022
-     http://amvland.free.fr/ 08-2007
-     http://l2laudiovideo.com/ 05-2015
+ ✨ https://retriever06.fr - début 07 2022 - en cours
+     http://amvland.free.fr/ - 08-2007
+     http://l2laudiovideo.com/ - 05-2015
      
+     Mes créations WP
+     
+     http://retriever06.fr/aectest - 2022
+     http://retriever06.fr/stmbiox - 2022
+      ✨ 
 
 
 
@@ -39,7 +44,18 @@
  👀 I’m interested in IT, movies, celtic music, movies, anime...
      rpg resume 'secret of mana' canvas html 
 
-
+ ✨ https://retriever06.fr - début 07 2022 - en cours
+     http://amvland.free.fr/ - 08-2007
+     http://l2laudiovideo.com/ - 05-2015
+     
+     Mes créations WP
+     
+     http://retriever06.fr/aectest - 2022
+     http://retriever06.fr/stmbiox - 2022
+      ✨ 
+      
+      
+      
 - 💞️ I’m looking to collaborate on //
 - 📫 How to reach me // 
 
